@@ -46,7 +46,7 @@ Welcome to Infosec364, a 365-day hacking journey for the entirety of 2024. This 
 
 **Week 1 (January 1 - January 7) - Introductory Week**
 
-- [TryHackMe | Threat Hunting](https://tryhackme.com/room/threathunting)
+- [TryHackMe | Threat Hunting](https://tryhackme.com/room/introductiontothreathunting)
 
 **Week 2 (January 8 - January 14) - Linux Fundamentals**
 
