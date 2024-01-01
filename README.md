@@ -19,10 +19,9 @@ Favorite Quote:
 — Steve Jobs
 Connect with Me:
 
-    Twitter: @adonijah_kimut
-    LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-    GitHub: https://github.com/adonijah01
-
+- Twitter: [@adonijah_kimut](https://twitter.com/adonijah_kimut)
+- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
+- GitHub: [adonijah01](https://github.com/adonijah01)
 Let the Journey Begin:
 
 The journey kicks off with an "Introductory Week" in January, paving the way for an immersive exploration of cybersecurity topics, challenges, and real-world scenarios. From Linux fundamentals to advanced threat intelligence, Infosec364 promises to equip you with the skills needed to navigate the dynamic landscape of cybersecurity.
