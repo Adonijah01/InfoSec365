@@ -39,14 +39,6 @@ Welcome to Infosec364, a 365-day hacking journey for the entirety of 2024. This 
 
 > "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
-# Infosec364: 365 Days of Hacking (2024)
-
-Welcome to Infosec364, a 365-day hacking journey for the entirety of 2024. This program requires dedication and commitment. Remember, every journey starts somewhere, and with persistence, we'll reach remarkable destinations.
-
-### Favorite Quote:
-
-> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
-
 ### January 2024
 
 **Week 1 (January 1 - January 7) - Introductory Week**
