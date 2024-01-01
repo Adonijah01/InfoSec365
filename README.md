@@ -7,8 +7,6 @@ Infosec365: A Year-Long Hacking Odyssey
 Welcome to Infosec365 🚀
 Embark on a transformative journey through the realm of cybersecurity with Infosec365—a curated 365-day hacking adventure designed for enthusiasts, novices, and seasoned professionals alike. In the spirit of dedication and commitment, this comprehensive plan unfolds week by week, delving into various facets of cybersecurity, from the fundamental principles to advanced techniques.
 
-"The only limit to our realization of tomorrow will be our doubts of today."
-— Franklin D. Roosevelt
 Introduction:
 
 Welcome to Infosec365, where each week unveils a new chapter in your cybersecurity education. Whether you're a beginner seeking foundational knowledge or an experienced professional honing your skills, this journey caters to all levels of expertise. It's not just about learning; it's about forging a daily commitment to the craft.
@@ -18,10 +16,6 @@ How It Works:
 
     Consistency is Key: Small, consistent efforts compound into substantial expertise. This plan is designed to fit into your busy schedule, making it achievable for anyone committed to the journey.
 
-Favorite Quote:
-
-"The only way to do great work is to love what you do."
-— Steve Jobs
 Connect with Me:
 
 - Twitter: [@adonijah_kimut](https://twitter.com/adonijah_kimut)
@@ -29,12 +23,10 @@ Connect with Me:
 - GitHub: [adonijah01](https://github.com/adonijah01)
 Let the Journey Begin:
 
-The journey kicks off with an "Introductory Week" in January, paving the way for an immersive exploration of cybersecurity topics, challenges, and real-world scenarios. From Linux fundamentals to advanced threat intelligence, Infosec364 promises to equip you with the skills needed to navigate the dynamic landscape of cybersecurity.
+The journey kicks off with an "Introductory Week" in January, paving the way for an immersive exploration of cybersecurity topics, challenges, and real-world scenarios. From Linux fundamentals to advanced threat intelligence, Infosec365 promises to equip you with the skills needed to navigate the dynamic landscape of cybersecurity.
 
 # Infosec365: 365 Days of Hacking (2024)
-
-Welcome to Infosec364, a 365-day hacking journey for the entirety of 2024. This program requires dedication and commitment. Remember, every journey starts somewhere, and with persistence, we'll reach remarkable destinations.
-
+A 365-day hacking journey for the entirety of 2024. This program requires dedication and commitment. Remember, every journey starts somewhere, and with persistence, we'll reach remarkable destinations.
 ### Favorite Quote:
 
 > "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
