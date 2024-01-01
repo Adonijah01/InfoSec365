@@ -274,5 +274,5 @@ Welcome to Infosec364, a 365-day hacking journey for the entirety of 2024. This 
 
 52. [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
-        TryHackMe | Cybersecurity Resolutions
+    TryHackMe | Cybersecurity Resolutions
         - [TryHackMe | Threat Hunting](https://tryhackme.com/room/threathunting)
