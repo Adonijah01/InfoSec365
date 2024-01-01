@@ -27,50 +27,70 @@ Let the Journey Begin:
 
 The journey kicks off with an "Introductory Week" in January, paving the way for an immersive exploration of cybersecurity topics, challenges, and real-world scenarios. From Linux fundamentals to advanced threat intelligence, Infosec364 promises to equip you with the skills needed to navigate the dynamic landscape of cybersecurity.
 
-January 2024
+# Infosec364: 365 Days of Hacking (2024)
 
-    Week 1 (January 1 - January 7) - Introductory Week
-        TryHackMe | Threat Hunting
+Welcome to Infosec364, a 365-day hacking journey for the entirety of 2024. This program requires dedication and commitment. Remember, every journey starts somewhere, and with persistence, we'll reach remarkable destinations.
 
-    Week 2 (January 8 - January 14) - Linux Fundamentals
-        TryHackMe | Linux Fundamentals Part 1
+### Favorite Quote:
 
-    Week 3 (January 15 - January 21) - Basic Rooms
-        TryHackMe | Splunk: Exploring SPL
+> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
-    Week 4 (January 22 - January 28) - Reconnaissance
-        TryHackMe | Passive Reconnaissance
+### January 2024
 
-February 2024
+**Week 1 (January 1 - January 7) - Introductory Week**
 
-    Week 5 (January 29 - February 4) - Scripting
-        TryHackMe | Python Basics
+- [TryHackMe | Threat Hunting](https://tryhackme.com/room/threathunting)
 
-    Week 6 (February 5 - February 11) - Networking
-        TryHackMe | Intro to Networking
+**Week 2 (January 8 - January 14) - Linux Fundamentals**
 
-    Week 7 (February 12 - February 18) - Tooling
-        TryHackMe | Metasploit: Introduction
+2. [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-    Week 8 (February 19 - February 25) - Crypto & Hashes
-        TryHackMe | Cryptography for Dummies
+**Week 3 (January 15 - January 21) - Basic Rooms**
 
-March 2024
+3. [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
-    Week 9 (February 26 - March 3) - Steganography
-        TryHackMe | CC: Steganography
+**Week 4 (January 22 - January 28) - Reconnaissance**
 
-    Week 10 (March 4 - March 10) - Web
-        TryHackMe | OWASP Broken Access Control
+4. [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-    Week 11 (March 11 - March 17) - Android
-        TryHackMe | Android Hacking 101
+### February 2024
 
-    Week 12 (March 18 - March 24) - Forensics
-        TryHackMe | Servidae: Log Analysis in ELK
+**Week 5 (January 29 - February 4) - Scripting**
 
-    Week 13 (March 25 - March 31) - Wi-Fi Hacking
-        TryHackMe | Wifi Hacking 101
+5. [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+
+**Week 6 (February 5 - February 11) - Networking**
+
+6. [TryHackMe | Intro to Networking](https://tryhackme.com/room/introtonetworking)
+
+**Week 7 (February 12 - February 18) - Tooling**
+
+7. [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+
+**Week 8 (February 19 - February 25) - Crypto & Hashes**
+
+8. [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+
+...
+
+### December 2024
+
+**Week 50 (December 9 - December 15) - Special Events**
+
+50. [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
+
+**Week 51 (December 16 - December 22) - Review and Recap**
+
+51. [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
+
+**Week 52 (December 23 - December 29) - Celebration Week**
+
+52. [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
+
+**Week 53 (December 30 - January 5) - New Year's Special**
+
+53. [TryHackMe | Cybersecurity Resolutions](actual-url-for-cybersecurity-resolutions)
+
 
 April 2024
 
