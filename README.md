@@ -1,5 +1,5 @@
 Infosec365: A Year-Long Hacking Odyssey
-
+![Alt Text](https://cdn.neowin.com/news/images/uploaded/2017/05/1496142892_hacking_story.jpg)
 Embark on a transformative journey through the realm of cybersecurity with Infosec364—a curated 365-day hacking adventure designed for enthusiasts, novices, and seasoned professionals alike. In the spirit of dedication and commitment, this comprehensive plan unfolds week by week, delving into various facets of cybersecurity, from the fundamental principles to advanced techniques.
 
 "The only limit to our realization of tomorrow will be our doubts of today."
