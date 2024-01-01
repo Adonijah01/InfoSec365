@@ -5,7 +5,7 @@ Infosec365: A Year-Long Hacking Odyssey
 
 
 Welcome to Infosec365 🚀
-Embark on a transformative journey through the realm of cybersecurity with Infosec364—a curated 365-day hacking adventure designed for enthusiasts, novices, and seasoned professionals alike. In the spirit of dedication and commitment, this comprehensive plan unfolds week by week, delving into various facets of cybersecurity, from the fundamental principles to advanced techniques.
+Embark on a transformative journey through the realm of cybersecurity with Infosec365—a curated 365-day hacking adventure designed for enthusiasts, novices, and seasoned professionals alike. In the spirit of dedication and commitment, this comprehensive plan unfolds week by week, delving into various facets of cybersecurity, from the fundamental principles to advanced techniques.
 
 "The only limit to our realization of tomorrow will be our doubts of today."
 — Franklin D. Roosevelt
