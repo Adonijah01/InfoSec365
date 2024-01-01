@@ -209,3 +209,4 @@ December 2024
 
     Week 53 (December 30 - January 5) - New Year's Special
         TryHackMe | Cybersecurity Resolutions
+        - [TryHackMe | Threat Hunting](https://tryhackme.com/room/threathunting)
