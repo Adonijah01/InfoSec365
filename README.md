@@ -25,7 +25,7 @@ Favorite Quote:
 Connect with Me:
 
 - Twitter: [@adonijah_kimut](https://twitter.com/adonijah_kimut)
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
+- LinkedIn: [[Adonijah Kiplimo](https://www.linkedin.com/in/adonijah-kiplimo-1a00b9215/)]
 - GitHub: [adonijah01](https://github.com/adonijah01)
 Let the Journey Begin:
 
