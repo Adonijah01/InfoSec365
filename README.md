@@ -1,144 +1,172 @@
-# InfoSec365 - Year-Long Information Security Journey
-
-Welcome to InfoSec365! This repository documents my year-long journey into the fascinating world of information security. The schedule below outlines the topics, challenges, and rooms I'll be exploring each week from January 2024 to January 2025.
-
-## Weekly Schedule
-
-Weekly Schedule
+Certainly! Here's a weekly breakdown of one TryHackMe room per week for 53 weeks:
 January 2024
-Week 1 (January 1 - January 7) - Unlock the Gateway: Introductory Week
 
-    Room 1: TryHackMe | Threat Hunting: Foothold
-        Dive into the basics of cybersecurity and understand the importance of threat hunting.
-        Explore practical scenarios to gain insights into foothold techniques.
+Week 1 (January 1 - January 7) - Introductory Week
 
-Welcome to the thrilling world of cybersecurity! This introductory week sets the stage for an exhilarating journey ahead.
-Week 2 (January 8 - January 14) - Linux Unleashed: Mastering the Basics
+    TryHackMe | Threat Hunting: https://tryhackme.com/room/linuxfundamentalspart1
 
-    Room 2: TryHackMe | Linux Modules
-        Embark on a hands-on exploration of Linux fundamentals, covering essential commands and modules.
+Week 2 (January 8 - January 14) - Linux Fundamentals
+2. TryHackMe | https://tryhackme.com/room/linuxfundamentalspart1
 
-Linux is the backbone of cybersecurity. Strengthen your foundation as we delve into the heart of operating systems.
-Week 3 (January 15 - January 21) - Windows Wonderland: Navigating Fundamentals
+Week 3 (January 15 - January 21) - Basic Rooms
+3. TryHackMe | Splunk: https://tryhackme.com/room/splunkexploringspl
 
-    Room 3: TryHackMe | Windows Fundamentals 1
-        Decode the intricacies of Windows systems, from basic functionalities to security considerations.
-
-Unlock the secrets of Windows environments, a crucial skill for any cybersecurity enthusiast.
-Week 4 (January 22 - January 28) - Beyond Basics: Exploring Varied Realms
-
-    Room 4: TryHackMe | Splunk: Exploring SPL
-        Immerse yourself in the world of Splunk and harness the power of SPL for effective log analysis.
-
-Elevate your skills by venturing into advanced tools and techniques. Let's go beyond the ordinary!
-Week 5 (January 29 - February 4) - Reconnaissance Rendezvous: The Art of Discovery
-
-    Room 5: TryHackMe | Passive Reconnaissance
-        Master the art of gathering intelligence without leaving a trace through passive reconnaissance.
-
-Become a cyber-sleuth as we focus on the silent but powerful phase of reconnaissance.
+Week 4 (January 22 - January 28) - Reconnaissance
+4. TryHackMe | https://tryhackme.com/room/passiverecon
 February 2024
-Week 6 (February 5 - February 11) - Scripting Symphony: Coding for Cybersecurity
 
-    Room 6: TryHackMe | Python Basics
-        Unleash the potential of Python for cybersecurity with fundamental scripting exercises.
+Week 5 (January 29 - February 4) - Scripting
+5. TryHackMe | https://tryhackme.com/room/pythonbasics
 
-Scripting is your magic wand in the cybersecurity realm. Let's craft some spells together!
-Week 7 (February 12 - February 18) - Networking Nexus: Connecting the Cyber Dots
+Week 6 (February 5 - February 11) - Networking
+6. TryHackMe | https://tryhackme.com/room/introtonetworking
 
-    Room 7: TryHackMe | Introductory Networking
-        Explore the foundations of networking, understanding protocols, and communication.
+Week 7 (February 12 - February 18) - Tooling
+7. TryHackMe | Metasploit: https://tryhackme.com/room/metasploitintro
 
-Journey through the intricate web of networking—where every connection matters.
-Week 8 (February 19 - February 25) - Tooling Wonderland: A Toolkit Extravaganza
-
-    Room 8: TryHackMe | Metasploit: Introduction
-        Delve into the powerful realm of Metasploit, the Swiss Army knife of cybersecurity.
-
-Equip yourself with an arsenal of tools as we navigate through the dynamic landscape of cybersecurity tooling.
-Week 9 (February 26 - March 3) - Cryptic Cryptography: Deciphering the Enigma
-
-    Room 9: TryHackMe | Cryptography for Dummies
-        Demystify the world of cryptography, from basic concepts to practical applications.
-
-Step into the cryptic world where messages become puzzles waiting to be unraveled.
+Week 8 (February 19 - February 25) - Crypto & Hashes
+8. TryHackMe | https://tryhackme.com/room/cryptographyfordummies
 March 2024
-Week 10 (March 4 - March 10) - Steganography Secrets: Hiding in Plain Sight
 
-    Room 10: TryHackMe | CC: Steganography
-        Unlock the secrets of steganography, where information is concealed in plain sight.
+Week 9 (February 26 - March 3) - Steganography
+9. TryHackMe | https://tryhackme.com/room/ccstego
 
-Discover the art of hiding messages and uncovering concealed truths.
-Week 11 (March 11 - March 17) - Web Wonderland: Journey into Web Exploitation
+Week 10 (March 4 - March 10) - Web
+10. TryHackMe | OWASP Broken Access Control : https://tryhackme.com/room/owaspbrokenaccesscontrol
 
-    Room 11: TryHackMe | OWASP Broken Access Control
-        Navigate through web security pitfalls and master the art of exploiting broken access controls.
+Week 11 (March 11 - March 17) - Android
+11. TryHackMe | Android Hacking 101: https://tryhackme.com/room/androidhacking101
 
-Embark on a thrilling journey into the vast landscape of web exploitation.
-Week 12 (March 18 - March 24) - Advanced Web Whirlwind: Navigating the Uncharted
+Week 12 (March 18 - March 24) - Forensics
+12. TryHackMe | Servidae: Log Analysis in ELK : https://tryhackme.com/room/servidae
 
-    Room 12: TryHackMe | Web Scanning
-        Dive deeper into web security with advanced scanning techniques and methodologies.
-
-As we progress, the challenges become more complex. Are you ready for the next level?
+Week 13 (March 25 - March 31) - Wi-Fi Hacking
+13. TryHackMe | Wifi Hacking 101 : https://tryhackme.com/room/wifihacking101
 April 2024
-Week 13 (March 25 - March 31) - Mastering the Unknown: Advanced Web Exploitation
 
-    Room 13: TryHackMe | OWASP Top 10 - 2021
-        Tackle the latest OWASP Top 10 vulnerabilities and hone your skills in cutting-edge web exploitation.
+Week 14 (April 1 - April 7) - Reverse Engineering
+14. TryHackMe | Intro to x86-64 : https://tryhackme.com/room/introtox8664
 
-As we reach the midpoint, brace yourself for the pinnacle of web security challenges.
+Week 15 (April 8 - April 14) - Malware Analysis
+15. TryHackMe | Intro to Detection Engineering : https://tryhackme.com/room/introtodetectionengineering
 
-... Continue with a similar engaging narrative for the remaining months, introducing more advanced topics as the weeks progress.
+Week 16 (April 15 - April 21) - Privilege Escalation
+16. TryHackMe | Linux Privilege Escalation : https://tryhackme.com/room/linprivesc
+
+Week 17 (April 22 - April 28) - Windows
+17. TryHackMe | Investigating Windows : https://tryhackme.com/room/investigatingwindows
+
+Week 18 (April 29 - May 5) - Active Directory
+18. TryHackMe | Active Directory Hardening : https://tryhackme.com/room/activedirectoryhardening
+May 2024
+
+Week 19 (May 6 - May 12) - PCAP Analysis
+19. TryHackMe | h4cked : https://tryhackme.com/room/h4cked
+
+Week 20 (May 13 - May 19) - Buffer Overflow
+20. TryHackMe | Buffer Overflow Prep : https://tryhackme.com/room/bufferoverflowprep
+
+Week 21 (May 20 - May 26) - Easy CTF
+21. TryHackMe | Bulletproof Penguin : https://tryhackme.com/room/bppenguin
+
+Week 22 (May 27 - June 2) - Medium CTF
+22. TryHackMe | Hunt Me I: Payment Collectors : https://tryhackme.com/room/paymentcollectors
+June 2024
+
+Week 23 (June 3 - June 9) - Hard CTF
+23. TryHackMe | Motunui : https://tryhackme.com/room/motunui
+
+Week 24 (June 10 - June 16) - Misc
+24. TryHackMe | Confluence CVE-2023-22515 : https://tryhackme.com/room/confluence202322515
+
+Week 25 (June 17 - June 23) - Special Events
+25. TryHackMe | 25 Days of Cyber Security : https://tryhackme.com/room/learncyberin25days
+
+Week 26 (June 24 - June 30) - Introductory Week (Review)
+26. TryHackMe | Threat Hunting: Foothold : https://tryhackme.com/room/threathuntingfoothold
+July 2024
+
+Week 27 (July 1 - July 7) - Linux Fundamentals
+27. TryHackMe | Linux Fundamentals Part 2 : https://tryhackme.com/room/linuxfundamentalspart2
+
+Week 28 (July 8 - July 14) - Basic Rooms
+28. TryHackMe | Pentesting Fundamentals : https://tryhackme.com/room/pentestingfundamentals
+
+Week 29 (July 15 - July 21) - Reconnaissance
+29. TryHackMe | OhSINT : https://tryhackme.com/room/ohsint
+
+Week 30 (July 22 - July 28) - Scripting
+30. TryHackMe | Bash Scripting : https://tryhackme.com/room/bashscripting
+August 2024
+
+Week 31 (July 29 - August 4) - Networking
+31. TryHackMe | HTTP in detail : https://tryhackme.com/room/httpindetail
+
+Week 32 (August 5 - August 11) - Tooling
+32. TryHackMe | Metasploit: Introduction : https://tryhackme.com/room/rpmetasploit
+
+Week 33 (August 12 - August 18) - Crypto & Hashes
+33. TryHackMe | Crack the hash : https://tryhackme.com/room/crackthehash
+
+Week 34 (August 19 - August 25) - Steganography
+34. TryHackMe | Psychobreak : https://tryhackme.com/room/psychobreak
+
+Week 35 (August 26 - September 1) - Web
+35. TryHackMe | OWASP Top 10 - 2021 : https://tryhackme.com/room/owasptop102021
+September 2024
+
+Week 36 (September 2 - September 8) - Android
+36. TryHackMe | Android Hacking 101 : https://tryhackme.com/room/androidhacking101
+
+Week 37 (September 9 - September 15) - Forensics
+37. TryHackMe | Linux Server Forensics : https://tryhackme.com/room/linuxserverforensics
+
+Week 38 (September 16 - September 22) - Wi-Fi Hacking
+38. TryHackMe | Wifi Hacking 101 : https://tryhackme.com/room/wifihacking101
+
+Week 39 (September 23 - September 29) - Reverse Engineering
+39. TryHackMe | Intro to x86-64 : https://tryhackme.com/room/win64assembly
+October 2024
+
+Week 40 (September 30 - October 6) - Malware Analysis
+40. TryHackMe | Mobile Malware Analysis : https://tryhackme.com/room/mma
+
+Week 41 (October 7 - October 13) - Privilege Escalation
+41. TryHackMe | Windows Privilege Escalation :https://tryhackme.com/room/windows10privesc
+
+Week 42 (October 14 - October 20) - Windows
+42. TryHackMe | Investigating Windows2 : https://tryhackme.com/room/investigatingwindows2
+
+Week 43 (October 21 - October 27) - Active Directory
+43. TryHackMe | Attacktive Directory : https://tryhackme.com/room/attacktivedirectory 
+
+Week 44 (October 28 - November 3) - PCAP Analysis
+44. TryHackMe | Overpass 2 - Hacked : https://tryhackme.com/room/overpass2hacked
+November 2024
+
+Week 45 (November 4 - November 10) - Buffer Overflow
+45. TryHackMe |Intro To Pwntools : https://tryhackme.com/room/introtopwntools
+
+Week 46 (November 11 - November 17) - Easy CTF
+46. TryHackMe | Grep : https://tryhackme.com/room/greprtp
+
+Week 47 (November 18 - November 24) - Medium CTF
+47. TryHackMe | StuxCTF : https://tryhackme.com/room/stuxctf
+
+Week 48 (November 25 - December 1) - Hard CTF
+48. TryHackMe | Spring : https://tryhackme.com/room/spring
+
+Week 49 (December 2 - December 8) - Misc
+49. TryHackMe | Linux Backdoors : https://tryhackme.com/room/linuxbackdoors
 December 2024
-Week 48 (December 1 - December 7) - Capstone Challenge: The Grand Finale
 
-    Room 48: TryHackMe | Capstone Challenge
-        Apply all your skills in a real-world scenario. Can you conquer the ultimate challenge?
+Week 50 (December 9 - December 15) - Special Events
+50. TryHackMe | Advent of Cyber 2023 : https://tryhackme.com/room/adventofcyber2023
 
-The grand finale awaits! Demonstrate your prowess and celebrate your journey in the world of cybersecurity.
-Week 49 (December 8 - December 14) - Advanced Topic Odyssey: Beyond the Horizon
+Week 51 (December 16 - December 22) - Review and Recap
+51. TryHackMe | ParrotPost: Phishing Analysis : https://tryhackme.com/room/parrotpost
 
-    Room 49: TryHackMe | Advanced Topic 1
-        Embark on an odyssey exploring an advanced cybersecurity topic, pushing the boundaries of your knowledge.
+Week 52 (December 23 - December 29) - Celebration Week
+52. TryHackMe | Threat Intelligence for SOC : https://tryhackme.com/room/threatintelligenceforsoc
 
-As we delve into advanced territories, brace yourself for a journey beyond the horizon.
-Week 50 (December 15 - December 21) - Mastery Unleashed: Advanced Topic Revelation
-
-    Room 50: TryHackMe | Advanced Topic 2
-        Uncover the intricacies of another advanced cybersecurity topic, revealing new dimensions of expertise.
-
-Experience the revelation as we unravel the mysteries of an advanced cybersecurity domain.
-Week 51 (December 22 - December 28) - Beyond Boundaries: Advanced Topic Epiphany
-
-    Room 51: TryHackMe | Advanced Topic 3
-        Achieve an epiphany as we explore the final advanced topic, transcending conventional boundaries.
-
-In this penultimate week, push the limits of your understanding and skills.
-Week 52 (December 29 - January 4) - Capstone Challenge 2: A New Beginning
-
-    Room 52: TryHackMe | Capstone Challenge 2
-        Embrace a new challenge, applying your accumulated knowledge for a fresh beginning.
-
-The journey never truly ends. Start the new year with a renewed commitment to cybersecurity excellence.
-Week 53 (January 5 - January 11) - Review and Reflection: A Year in Retrospect
-
-    Room 53: TryHackMe | Year-End Reflection
-        Reflect on the past year, celebrate achievements, and set goals for the future.
-
-As we close the chapter on this year-long adventure, take a moment to look back and envision the cybersecurity path ahead.
-
-This narrative adds a thematic touch to each week, making the learning journey more engaging and enjoyable. Feel free to customize it further based on your preferences and the preferences of the learners.
-
-Feel free to track your progress, share your insights, and collaborate with others interested in the world of information security. Happy hacking!
-
-## Acknowledgments
-
-Special thanks to the InfoSec community and all the platforms providing valuable learning resources.
-
-## Connect with Me
-
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
-- Blog: [Your Blog URL]
 
