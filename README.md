@@ -47,7 +47,7 @@ A 365-day hacking journey for the entirety of 2024. This program requires dedica
 
 **Week 4 (January 22 - January 28) - Reconnaissance**
 
-4. [TryHackMe | Passive Reconnaissance- Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+4. [TryHackMe | Reconnaissance- Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 ### February 2024
 
