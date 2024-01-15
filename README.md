@@ -43,11 +43,11 @@ A 365-day hacking journey for the entirety of 2024. This program requires dedica
 
 **Week 3 (January 15 - January 21) - Basic Rooms**
 
-3. [TryHackMe | Reconnaissance- Active Reconnaissance]([https://tryhackme.com/room/activerecon)
+3. [TryHackMe | Reconnaissance- Active](https://tryhackme.com/room/activerecon)
 
 **Week 4 (January 22 - January 28) - Reconnaissance**
 
-4. [TryHackMe | Reconnaissance- Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+4. [TryHackMe | Reconnaissance- Passive](https://tryhackme.com/room/passiverecon)
 
 ### February 2024
 
