@@ -71,7 +71,7 @@ A 365-day hacking journey for the entirety of 2024. This program requires dedica
 
 **Week 9 (February 26 - March 3) - Steganography**
 
-9. [TryHackMe | CCStego](https://tryhackme.com/room/ccstego)
+9. [Youtube|](https://www.youtube.com/watch?v=CWQfbYrommk)
 
 **Week 10 (March 4 - March 10) - Web**
 
