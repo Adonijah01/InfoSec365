@@ -77,9 +77,9 @@ A 365-day hacking journey for the entirety of 2024. This program requires dedica
 
 10. [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
-**Week 11 (March 11 - March 17) - Android**
+**Week 11 (March 11 - March 17) - More Crypto**
 
-11. [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
+11. [TryHackMe | Agent sudo]([https://tryhackme.com/room/agentsudoctf])
 
 **Week 12 (March 18 - March 24) - Forensics**
 
