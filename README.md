@@ -79,7 +79,7 @@ A 365-day hacking journey for the entirety of 2024. This program requires dedica
 
 **Week 11 (March 11 - March 17) - More Crypto**
 
-11. [TryHackMe | Agent sudo]([https://tryhackme.com/room/agentsudoctf])
+11. [TryHackMe | Agent sudo](https://tryhackme.com/room/agentsudoctf)
 
 **Week 12 (March 18 - March 24) - Forensics**
 
